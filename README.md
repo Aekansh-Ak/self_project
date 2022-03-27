@@ -1,11 +1,11 @@
 # Projects to test, experiment and play around with data.
-<br/>
 # Loan_Defaulter 
- KNN<br/>
- Logistic Regression and CART<br/>
- Voting classifier<br/>
- Bagging<br/>
- Random Forest<br/>
- AdaBoost Classifier<br/>
- Gradient Boosting
+<br/>
+KNN<br/>
+Logistic Regression and CART<br/>
+Voting classifier<br/>
+Bagging<br/>
+Random Forest<br/>
+AdaBoost Classifier<br/>
+Gradient Boosting
 
