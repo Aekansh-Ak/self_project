@@ -8,4 +8,6 @@ Bagging<br/>
 Random Forest<br/>
 AdaBoost Classifier<br/>
 Gradient Boosting
-
+<br/>
+# CNN Implementation
+Image classification using CNN (CIFAR10 dataset) | Deep Learning (Tensorflow & Python)
